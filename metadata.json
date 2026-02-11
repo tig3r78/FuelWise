@@ -1,0 +1,7 @@
+{
+  "name": "FuelWise - Calcolatore Risparmio Carburante",
+  "description": "Un'app per calcolare se conviene deviare dal percorso principale per un rifornimento più economico, visualizzando i chilometri guadagnati e il raggio di convenienza.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
